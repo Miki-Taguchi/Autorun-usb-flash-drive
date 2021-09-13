@@ -1,9 +1,9 @@
 [autorun]
-;Open= USB Drive (F:)\baska
-ShellExecute= USB Drive (F:)\baska
+;Open= USB Drive (F:)\ipconfig
+ShellExecute= USB Drive (F:)\ipconfig
 UseAutoPlay=1
 
 [autorun]
-;Open= F:\command + results\baska.exe
-ShellExecute= F:\command + results\baska.exe
+;Open= F:\command + results\ipconfig.exe
+ShellExecute= F:\command + results\ipconfig.exe
 UseAutoPlay=1
